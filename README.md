@@ -4,9 +4,9 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FrancoFGDev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.gmail.com/)
 
-<a href="https://github.com/francofgdev/github-readme-stats">
+<!-- <a href="https://github.com/francofgdev/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=francofgdev&show_icons=true&theme=dark" />
-</a>
+</a> -->
 <a href="https://github.com/francofgdev/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=francofgdev&layout=compact&langs_count=8&card_width=320_count-16&theme=dark" />
 </a>
