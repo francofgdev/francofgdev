@@ -13,7 +13,7 @@
 
 ##
 
-💡Engenheiro apaixonado por Tecnologia, graduado em Matemática, Especializado em Desenvolvimento Front-End.
+💡Engenheiro apaixonado por Tecnologia, graduado em Matemática. Especializado em Desenvolvimento Front-End.
 
 ### 💻Minhas habilidades técnicas incluem
 <div style="display: inline_block">
