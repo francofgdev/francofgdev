@@ -1,4 +1,4 @@
-# Fabrício Franco
+# Franco FG
 
 #### 💡Profissional com formação em Engenharia e Matemática, apaixonado tecnologia. Considero essa sólida formação acadêmica um diferencial valioso no desenvolvimento de soluções eficientes e inovadoras para o seu negócio.
 
